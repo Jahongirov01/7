@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.images{
+  margin-left: 80px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+.images:hover{
+  transform: scale(1.1);
+  margin-bottom: 10px;
+}
+.my_images:hover{
+  transform: scale(1.1);
+  margin-bottom: 10px;
+}
+.my{
+  margin-left: 130px;
+}
+.bg{
+  margin-left: 130px;
+}
+.my_sectionn{
+  margin-top: -70px;
+  margin-left: 520px;
+}
+.img{
+  margin-left: -370px;
+  display: flex;
+}
+.li:hover{
+color: blue;
+}
+.info{
+  gap: 10px;
+  margin-top: 10px;
+  margin-left: -400px;
+  display: flex;
+}
+.img_avatar{
+    text-align: center;
+  border-radius: 50%;
+}
+h1{
+    margin-left: 10px;
+}
+.Details_page{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+p{ 
+
+  margin-left: 10px;
+}
+.title{
+  
+  color: black;
+}
+.price{
+ 
+  color: blue;
+}
+.imagess{
+  width: 150px;
+  height: 140px;
+}
+.imagesss{
+  width: 150px;
+  height: 140px;
+}
+
+  
